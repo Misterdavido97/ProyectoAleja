@@ -25,5 +25,10 @@
             templateUrl: "views/pageP4.html"
         };
     });
-
+    app.directive("pageP5",function () {
+        return{
+            restrict: 'E',
+            templateUrl: "views/pageP5.html"
+        };
+    });
 })();

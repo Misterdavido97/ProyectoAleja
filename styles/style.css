@@ -36,6 +36,9 @@ body{
 .FSize50{
 	font-size: 50px;
 }
+.Ancho80{
+	width: 80%;
+}
 .FCenter{
 	text-align: center;
 }
@@ -57,10 +60,13 @@ body{
 	height: 80px;
 }
 .IMGPequeña{
-	height: 80px;
+	height: 50px;
 }
 .IMGGrande{
 	width: 120px;
+}
+.IMGSuper{
+	height: 230px !important;
 }
 .BordeSmall{
 	border: solid white 2px;
@@ -69,6 +75,9 @@ body{
 }
 .MargenTop{
 	margin: 5vh 0;
+}
+.MargenTopP{
+	margin: 3vh 0;
 }
 .parrafoP{
 	width: 100%;
@@ -102,4 +111,11 @@ body{
 }
 .none{
 	display: none;
+}
+.Absoluto{
+	position: absolute;
+}
+.ObCentrar{
+	top: 30vh;
+	left: 23vw;
 }
