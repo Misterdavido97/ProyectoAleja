@@ -1,16 +1,22 @@
 (function () {
     var app = angular.module('directives',[]);
 
-    app.directive("pageOne",function () {
+    app.directive("pageP1",function () {
         return{
             restrict: 'E',
-            templateUrl: "views/pageOne.html"
+            templateUrl: "views/pageP1.html"
         };
     });
-    app.directive("pageTwo",function () {
+    app.directive("pageP2",function () {
         return{
             restrict: 'E',
-            templateUrl: "views/pageTwo.html"
+            templateUrl: "views/pageP2.html"
+        };
+    });
+    app.directive("pageP3",function () {
+        return{
+            restrict: 'E',
+            templateUrl: "views/pageP3.html"
         };
     });
 

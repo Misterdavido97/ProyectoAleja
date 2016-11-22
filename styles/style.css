@@ -21,6 +21,35 @@ body{
 	font-size: 24px;
 	font-family: 'Roboto Condensed', sans-serif;
 }
+.FSize24{
+	font-size: 24px;
+}
+.CWhite{
+	color: white;
+}
+.CBlack{
+	color: black;
+}
+.FSize80{
+	font-size: 80px;
+}
+.FSize50{
+	font-size: 50px;
+}
+.FCenter{
+	text-align: center;
+}
+.FFRoboto{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.BBootom{
+	border-bottom: solid white 4px;
+}
+.Borde{
+	border: solid white 2px;
+	border-radius: 50px;
+	padding: 4vh;
+}
 .parrafoP{
 	width: 100%;
 	font-size: 35px;	
@@ -46,4 +75,8 @@ body{
 .Izquierda{
 	width: 80%;
 	text-align: left;
+}
+.Derecha{
+	width: 80%;
+	text-align: right;
 }
