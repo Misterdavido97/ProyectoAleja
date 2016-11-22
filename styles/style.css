@@ -50,6 +50,26 @@ body{
 	border-radius: 50px;
 	padding: 4vh;
 }
+.MargenIMG{
+	margin: 0 5vw;
+}
+.IMGMedia{
+	height: 80px;
+}
+.IMGPequeña{
+	height: 80px;
+}
+.IMGGrande{
+	width: 120px;
+}
+.BordeSmall{
+	border: solid white 2px;
+	border-radius: 25px;
+	padding-top: 3vh;
+}
+.MargenTop{
+	margin: 5vh 0;
+}
 .parrafoP{
 	width: 100%;
 	font-size: 35px;	
@@ -62,7 +82,7 @@ body{
 	flex-direction: column;
 	text-align: right;
 }
-.centrar img{
+.centrar>img{
 	height: 20vh;
 }
 .Introduccion{
