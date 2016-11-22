@@ -4,8 +4,8 @@
 (function () {
     var app = angular.module('Start',['directives']);
 
-    app.controller('ClickController', function ($scope) {
-           $scope.a = 1;
+    app.controller('ClickController', function () {
+
     });
 
 })();
