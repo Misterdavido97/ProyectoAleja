@@ -19,5 +19,11 @@
             templateUrl: "views/pageP3.html"
         };
     });
+    app.directive("pageP4",function () {
+        return{
+            restrict: 'E',
+            templateUrl: "views/pageP4.html"
+        };
+    });
 
 })();
