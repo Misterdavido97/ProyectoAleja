@@ -119,3 +119,18 @@ body{
 	top: 30vh;
 	left: 23vw;
 }
+.Target1{
+	top: 8vh;
+	left: 8vw;
+	z-index: 1;
+}
+.Target2{
+	top: 35vh;
+	left: 16vw;
+	z-index: 2;
+}
+.Target3{
+	top: 60vh;
+	left: 24vw;
+	z-index: 1;
+}
