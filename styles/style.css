@@ -12,12 +12,18 @@ body{
 	width: 100vw;
 }
 .titulo1{
-	font-size: ;
+	font-size: 80px;
 	text-align: right;
 	width: 100%
 }
-.parrafoP,.parrafoS{
-	width: 100%
+.parrafoS{
+	width: 100%;
+	font-size: 24px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.parrafoP{
+	width: 100%;
+	font-size: 35px;	
 }
 .centrar{
 	height: 100vh;
@@ -26,4 +32,18 @@ body{
 	align-items: center;
 	flex-direction: column;
 	text-align: right;
+}
+.centrar img{
+	height: 20vh;
+}
+.Introduccion{
+	color: black;
+	background-color: white;
+	height: 80vh !important;
+	border-radius: 8%;
+	margin-top: 10vh;
+}
+.Izquierda{
+	width: 80%;
+	text-align: left;
 }
