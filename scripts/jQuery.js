@@ -4,10 +4,7 @@
 $(function () {
     var a = 0;
     $(document).keydown(function (event) {
-        console.log("asdasdasd");
-        if(event.key == "ArrowRight" && a <= 38) {
-            console.log(a);
-            console.log($('.a'));
+        if(event.key == "ArrowRight" && a <= 37) {
             $($('.a')[a]).addClass('none');
             a++;
             $($('.a')[a]).removeClass('none');

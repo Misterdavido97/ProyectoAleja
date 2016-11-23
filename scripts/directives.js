@@ -37,4 +37,10 @@
             templateUrl: "views/pageP6.html"
         };
     });
+    app.directive("pageP7",function () {
+        return{
+            restrict: 'E',
+            templateUrl: "views/pageP7.html"
+        };
+    });
 })();
