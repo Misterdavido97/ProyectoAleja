@@ -14,7 +14,8 @@ body{
 .titulo1{
 	font-size: 80px;
 	text-align: right;
-	width: 100%
+	width: 100%;
+	margin-bottom: 0;
 }
 .parrafoS{
 	width: 100%;
@@ -44,6 +45,7 @@ body{
 }
 .FFRoboto{
 	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: bold; 
 }
 .BBootom{
 	border-bottom: solid white 4px;
