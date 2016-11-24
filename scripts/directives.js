@@ -49,4 +49,34 @@
             templateUrl: "views/pageP8.html"
         };
     });
+    app.directive("pageP9",function () {
+        return{
+            restrict: 'E',
+            templateUrl: "views/pageP9.html"
+        };
+    });
+    app.directive("pageP10",function () {
+        return{
+            restrict: 'E',
+            templateUrl: "views/pageP10.html"
+        };
+    });
+    app.directive("pageP11",function () {
+        return{
+            restrict: 'E',
+            templateUrl: "views/pageP11.html"
+        };
+    });
+    app.directive("pageP12",function () {
+        return{
+            restrict: 'E',
+            templateUrl: "views/pageP12.html"
+        };
+    });
+    app.directive("pageP13",function () {
+        return{
+            restrict: 'E',
+            templateUrl: "views/pageP13.html"
+        };
+    });
 })();
