@@ -153,3 +153,12 @@ body{
 	width: 22vw;
 	height: 30vh;
 }
+.Icon{
+	height: 150px;
+}
+.NoMargin{
+	margin-bottom: 0;
+}
+.IMG100{
+	width: 80%;
+}
