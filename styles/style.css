@@ -162,3 +162,15 @@ body{
 .IMG100{
 	width: 80%;
 }
+.HMedia{
+	height: 65vh;
+}
+.H100{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	height: 40vh;
+}
+.FSizeParrafo{
+	font-size: 15px;
+}
