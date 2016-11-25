@@ -34,6 +34,9 @@ body{
 .CBlack{
 	color: black;
 }
+.FSize18{
+	font-size: 16px;
+}
 .FSize20{
 	font-size: 20px;
 }
@@ -72,6 +75,9 @@ body{
 }
 .IMGGrande{
 	width: 120px;
+}
+.IMGGrande2{
+	height: 120px;
 }
 .IMGSuper{
 	height: 180px !important;
@@ -166,7 +172,7 @@ body{
 	width: 80%;
 }
 .HMedia{
-	height: 65vh;
+	height: 50vh;
 }
 .H100{
 	display: flex;
