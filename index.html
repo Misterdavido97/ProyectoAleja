@@ -15,49 +15,49 @@
     <script type="text/javascript" src="scripts/app.js"></script>
     <link rel="stylesheet" type="text/css" href="styles/style.css">
 </head>
-<body ng-controller="ClickController">
+<body ng-controller="ClickController" ng-keydown="cont(0)">
     <div class="Manuela">
         <img src="imagenes/FONDO.jpg">
     </div>
-        <page-p1 class="a"></page-p1>
-        <page-p2 class="none a"></page-p2>
-        <page-p3 class="none a"></page-p3>
-        <page-p4 class="none a"></page-p4>
-        <page-p5 class="none a"></page-p5>
-        <page-p6 class="none a"></page-p6>
-        <page-p7 class="none a"></page-p7>
-        <page-p8 class="none a"></page-p8>
-        <page-p9 class="none a"></page-p9>
-        <page-p10 class="none a"></page-p10>
-        <page-p11 class="none a"></page-p11>
-        <page-p12 class="none a"></page-p12>
-        <page-p13 class="none a"></page-p13>
-        <page-p14 class="none a"></page-p14>
-        <page-p15 class="none a"></page-p15>
-        <page-p16 class="none a"></page-p16>
-        <page-p17 class="none a"></page-p17>
-        <page-p18 class="none a"></page-p18>
-        <page-p19 class="none a"></page-p19>
-        <page-p20 class="none a"></page-p20>
-        <page-p21 class="none a"></page-p21>
-        <page-p22 class="none a"></page-p22>
-        <page-p23 class="none a"></page-p23>
-        <page-p24 class="none a"></page-p24>
-        <page-p25 class="none a"></page-p25>
-        <page-p26 class="none a"></page-p26>
-        <page-p27 class="none a"></page-p27>
-        <page-p28 class="none a"></page-p28>
-        <page-p29 class="none a"></page-p29>
-        <page-p30 class="none a"></page-p30>
-        <page-p31 class="none a"></page-p31>
-        <page-p32 class="none a"></page-p32>
-        <page-p33 class="none a"></page-p33>
-        <page-p34 class="none a"></page-p34>
-        <page-p35 class="none a"></page-p35>
-        <page-p36 class="none a"></page-p36>
-        <page-p37 class="none a"></page-p37>
-        <page-p38 class="none a"></page-p38>
-        <page-p39 class="none a"></page-p39>
+    <page-p1 class="a"></page-p1>
+    <page-p2 class="none a"></page-p2>
+    <page-p3 class="none a" ng-show="Icont==0"></page-p3>
+    <page-p4 ng-if="Icont==1"></page-p4>
+    <page-p5 ng-if="Icont==2"></page-p5>
+    <page-p6 ng-if="Icont==3"></page-p6>
+    <page-p7 ng-if="Icont==4"></page-p7>
+    <page-p8 ng-if="Icont==11"></page-p8>
+    <page-p9 ng-if="Icont==12"></page-p9>
+    <page-p10 ng-if="Icont==13"></page-p10>
+    <page-p11 ng-if="Icont==14"></page-p11>
+    <page-p12 ng-if="Icont==15"></page-p12>
+    <page-p13 ng-if="Icont==16"></page-p13>
+    <page-p14 ng-if="Icont==5"></page-p14>
+    <page-p15 ng-if="Icont==41"></page-p15>
+    <page-p16 ng-if="Icont==42"></page-p16>
+    <page-p17 ng-if="Icont==43"></page-p17>
+    <page-p18 ng-if="Icont==44"></page-p18>
+    <page-p19 ng-if="Icont==45"></page-p19>
+    <page-p20 ng-if="Icont==46"></page-p20>
+    <page-p21 ng-if="Icont==47"></page-p21>
+    <page-p22 ng-if="Icont==48"></page-p22>
+    <page-p23 class="none a" ng-show="Icont==6"></page-p23>
+    <page-p24 ng-if="Icont==21"></page-p24>
+    <page-p25 ng-if="Icont==22"></page-p25>
+    <page-p26 ng-if="Icont==23"></page-p26>
+    <page-p27 ng-if="Icont==24"></page-p27>
+    <page-p28 ng-if="Icont==25"></page-p28>
+    <page-p29 ng-if="Icont==26"></page-p29>
+    <page-p30 ng-if="Icont==27"></page-p30>
+    <page-p31 ng-if="Icont==28"></page-p31>
+    <page-p32 ng-if="Icont==29"></page-p32>
+    <page-p33 ng-if="Icont==30"></page-p33>
+    <page-p34 ng-if="Icont==31"></page-p34>
+    <page-p35 ng-if="Icont==32"></page-p35>
+    <page-p36 ng-if="Icont==33"></page-p36>
+    <page-p37 ng-if="Icont==34"></page-p37>
+    <page-p38 ng-if="Icont==35"></page-p38>
+    <page-p39 ng-if="Icont==36"></page-p39>
     <script src="scripts/jQuery.js" type="text/javascript"></script>
     <script>
     document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] +
