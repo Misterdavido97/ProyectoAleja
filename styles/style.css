@@ -159,6 +159,9 @@ body{
 .BGWhite{
 	background: white;
 }
+.BBlack{
+	background: black;
+}
 .IMGCompleta{
 	width: 22vw;
 	height: 30vh;
@@ -216,4 +219,9 @@ body{
 	margin-top: 25vh;
 	width: 40%;
 	height: 40vh;
+}
+.P14Borde{
+	height: 20vh;
+	width: 10vw;
+	border-radius: 50%;
 }
