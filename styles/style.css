@@ -53,6 +53,7 @@ body{
 	font-weight: bold;
 }
 .BBootom{
+	padding-bottom: 1vh;
 	border-bottom: solid white 4px;
 }
 .Borde{
@@ -65,7 +66,7 @@ body{
 }
 .IMGMedia{
 	height: 80px;
-	width: 90%;
+	width: auto;
 }
 .IMGMedia2{
 	height: 80px;
@@ -273,4 +274,13 @@ position: absolute;
 	right: 0;
 	width: 10vh;
 	height: 10vh;
+}
+.FSItalica{
+	font-style: italic;
+}
+.FSize15{
+	font-size: 17px;
+}
+.NoMargin2{
+	margin: 0 auto 5vh auto;
 }
