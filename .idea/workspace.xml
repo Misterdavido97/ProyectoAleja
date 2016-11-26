@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df52c529-0d9a-4559-97dd-5aeef0214693" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Objetivo1.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Objetivo2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Objetivo3.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/P13.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Target/Target1.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Target/Target2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Target/Target3.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Target/Target1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Target/Target2.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Objetivo1.png" afterPath="$PROJECT_DIR$/imagenes/Objetivo/Objetivo1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Thumbs.db" afterPath="$PROJECT_DIR$/imagenes/Objetivo/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/Target/Thumbs.db" afterPath="$PROJECT_DIR$/imagenes/Target/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/Thumbs.db" afterPath="$PROJECT_DIR$/imagenes/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pageP13.html" afterPath="$PROJECT_DIR$/views/pageP13.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pageP4.html" afterPath="$PROJECT_DIR$/views/pageP4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pageP5.html" afterPath="$PROJECT_DIR$/views/pageP5.html" />
     </list>
     <ignored path="proyectoAleja.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,11 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pageP13.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/pageP13.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -162,6 +162,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ProyectoAleja" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProyectoAleja" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProyectoAleja" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -300,16 +314,16 @@
       <workItem from="1480087063705" duration="3279000" />
       <workItem from="1480164344815" duration="2900000" />
       <workItem from="1480167385994" duration="547000" />
-      <workItem from="1480168135447" duration="331000" />
+      <workItem from="1480168135447" duration="670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54314000" />
+    <option name="totallyTimeSpent" value="54653000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21156661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -674,14 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/pageP13.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/pageP10.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -726,6 +732,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pageP13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
           <folding />
         </state>
       </provider>
