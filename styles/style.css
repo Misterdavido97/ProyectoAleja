@@ -225,3 +225,21 @@ body{
 	width: 10vw;
 	border-radius: 50%;
 }
+.ZindexAtras{
+	z-index: -1;
+}
+.ZindexFrente{
+	z-index: 2;
+}
+.P23{
+position: absolute;
+}
+.MargenP23_1{
+	margin-top: 9vh;
+}
+.MargenP23_1>div>p{
+	padding:0;
+}
+.MTop{
+	margin-top: 5vh;
+}
