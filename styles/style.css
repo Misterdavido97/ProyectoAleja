@@ -133,6 +133,10 @@ body{
 	position: absolute;
 	z-index: 2;
 }
+.ObCentrar{
+	top: 35vh;
+	left: 23vw;
+}
 .ObCentrar2{
 	top: 20vh;
 	left: 23vw;
@@ -242,4 +246,31 @@ position: absolute;
 }
 .MTop{
 	margin-top: 5vh;
+}
+.b{
+	z-index: 5;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: rgba(0,0,0,0.5);
+}
+.PopUp{
+	height: 80vh;
+	width: auto;
+}
+.botton{
+	z-index: 6;
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 10vh;
+	height: 10vh;
 }

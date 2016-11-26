@@ -15,4 +15,12 @@ $(function () {
             $($('.a')[a]).removeClass('none');
         }
     });
+    $('.botton').on('click',function () {
+        $('#pops').addClass('none');
+    })
 });
+function pop(event) {
+    console.log(event);
+    $('#pops').removeClass('none');
+    $('#popup').prop('src',event);
+}
