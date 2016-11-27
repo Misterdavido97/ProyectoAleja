@@ -4,15 +4,18 @@
 $(function () {
     var a = 0;
     $(document).keydown(function (event) {
-        if(event.key == "ArrowRight" && a <= 3) {
-            $($('.a')[a]).addClass('none');
-            a++;
-            $($('.a')[a]).removeClass('none');
-        }
-        if(event.key == "ArrowLeft" && a >= 1){
-            $($('.a')[a]).addClass('none');
-            a--;
-            $($('.a')[a]).removeClass('none');
+        if($($('.a')[a]).prop('class') != "a ng-hide" ) {
+
+            if (event.key == "ArrowRight" && a <= 3) {
+                $($('.a')[a]).addClass('none');
+                a++;
+                $($('.a')[a]).removeClass('none');
+            }
+            if (event.key == "ArrowLeft" && a >= 1) {
+                $($('.a')[a]).addClass('none');
+                a--;
+                $($('.a')[a]).removeClass('none');
+            }
         }
     });
     $('.botton').on('click',function () {
