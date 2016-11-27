@@ -86,7 +86,7 @@ body{
 .BordeSmall{
 	border: solid white 2px;
 	border-radius: 25px;
-	padding-top: 3vh;
+	padding: 2vh;
 }
 .MargenTop{
 	margin: 5vh 0;
@@ -159,6 +159,10 @@ body{
 }
 .WAuto{
 	width: 40vw;
+	margin: auto;
+}
+.WAuto2{
+	width: auto;
 	margin: auto;
 }
 .BGWhite{
