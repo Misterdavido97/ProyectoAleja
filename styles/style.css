@@ -28,6 +28,9 @@ body{
 .FSize24{
 	font-size: 24px;
 }
+.FSize40{
+	font-size: 40px;
+}
 .CWhite{
 	color: white;
 }
@@ -310,4 +313,7 @@ position: absolute;
 .P24{
 	height: 50%;
 	width: 90%;
+}
+.manito:hover{
+	cursor: pointer;
 }

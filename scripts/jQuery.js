@@ -4,7 +4,7 @@
 $(function () {
     var a = 0;
     $(document).keydown(function (event) {
-        if(event.key == "ArrowRight" && a <= 2) {
+        if(event.key == "ArrowRight" && a <= 3) {
             $($('.a')[a]).addClass('none');
             a++;
             $($('.a')[a]).removeClass('none');

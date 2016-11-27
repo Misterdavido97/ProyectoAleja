@@ -15,14 +15,14 @@
     <script type="text/javascript" src="scripts/app.js"></script>
     <link rel="stylesheet" type="text/css" href="styles/style.css">
 </head>
-<body ng-controller="ClickController" ng-keydown="cont(0)">
+<body ng-controller="ClickController">
     <div class="Manuela">
         <img src="imagenes/FONDO.jpg">
     </div>
     <div class="angular">
-        <page-p1 class="a"></page-p1>
-        <page-p2 class="none a"></page-p2>
-        <page-p3 class="none a" ng-show="Icont==0"></page-p3>
+        <page-p1 class="a" ng-keydown="cont(0)"></page-p1>
+        <page-p2 class="none a" ng-keydown="cont(0)"></page-p2>
+        <page-p3 class="none a" ng-show="Icont==0" ng-keydown="cont(0)"></page-p3>
         <page-p4 ng-if="Icont==1"></page-p4>
         <page-p5 ng-if="Icont==2"></page-p5>
         <page-p6 ng-if="Icont==3"></page-p6>
@@ -42,7 +42,7 @@
         <page-p20 ng-if="Icont==46"></page-p20>
         <page-p21 ng-if="Icont==47"></page-p21>
         <page-p22 ng-if="Icont==48"></page-p22>
-        <page-p23 class="none a" ng-show="Icont==0"></page-p23>
+        <page-p23 class="none a" ng-show="Icont==0" ng-keydown="cont(0)"></page-p23>
         <page-p24 ng-if="Icont==21"></page-p24>
         <page-p25 ng-if="Icont==22"></page-p25>
         <page-p26 ng-if="Icont==23"></page-p26>
@@ -59,9 +59,10 @@
         <page-p37 ng-if="Icont==34"></page-p37>
         <page-p38 ng-if="Icont==35"></page-p38>
         <page-p39 ng-if="Icont==36"></page-p39>
+        <page-p40 class="none a" ng-show="Icont==0" ng-keydown="cont(0)"></page-p40>
     </div>
     <div id="pops" class="none">
-        <img src="icon/close.png" alt="close" class="botton">
+        <img src="icon/close.png" alt="close" class="botton manito">
         <div class="b">
             <img src="imagenes/optimizadas/Juegos.jpg" class="PopUp" alt="PopUp" id="popup" onclick="close()">
         </div>
