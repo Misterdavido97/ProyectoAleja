@@ -248,13 +248,16 @@ body{
 position: absolute;
 }
 .MargenP23_1{
-	margin-top: 9vh;
+	margin-top: 11vh;
 }
 .MargenP23_1>div>p{
 	padding:0;
 }
 .MTop{
-	margin-top: 5vh;
+	 margin-top: 5vh;
+ }
+.MTop2{
+	margin-top: 8vh;
 }
 .b{
 	z-index: 5;
@@ -291,4 +294,11 @@ position: absolute;
 }
 .NoMargin2{
 	margin: 0 auto 5vh auto;
+}
+.PadingP23{
+	padding-right: 5vw;
+}
+.MargenRight{
+	margin-right: 2vw;
+	margin-left: 4vw;
 }
