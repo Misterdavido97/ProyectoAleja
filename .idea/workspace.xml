@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df52c529-0d9a-4559-97dd-5aeef0214693" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Objetivo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Objetivo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Objetivo3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Target/Target1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Target/Target2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Target/Target3.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/FONDO.jpg" afterPath="$PROJECT_DIR$/imagenes/FONDO.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Thumbs.db" afterPath="$PROJECT_DIR$/imagenes/Objetivo/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/Target/Thumbs.db" afterPath="$PROJECT_DIR$/imagenes/Target/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/Thumbs.db" afterPath="$PROJECT_DIR$/imagenes/Thumbs.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/esloganP6.png" afterPath="$PROJECT_DIR$/imagenes/esloganP6.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/jQuery.js" afterPath="$PROJECT_DIR$/scripts/jQuery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pageP4.html" afterPath="$PROJECT_DIR$/views/pageP4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pageP5.html" afterPath="$PROJECT_DIR$/views/pageP5.html" />
     </list>
     <ignored path="proyectoAleja.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,22 +37,22 @@
     <favorites_list name="proyectoAleja" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="255">
+              <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jQuery.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/jQuery.js">
+      <file leaf-file-name="pageP6.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/pageP6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+            <state relative-caret-position="153">
+              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -84,8 +94,6 @@
         <option value="$PROJECT_DIR$/views/pageP40.html" />
         <option value="$PROJECT_DIR$/styles/style.css" />
         <option value="$PROJECT_DIR$/views/pageP3.html" />
-        <option value="$PROJECT_DIR$/views/pageP4.html" />
-        <option value="$PROJECT_DIR$/views/pageP5.html" />
         <option value="$PROJECT_DIR$/views/pageP6.html" />
         <option value="$PROJECT_DIR$/views/pageP7.html" />
         <option value="$PROJECT_DIR$/views/pageP9.html" />
@@ -122,6 +130,8 @@
         <option value="$PROJECT_DIR$/views/pageP8.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scripts/jQuery.js" />
+        <option value="$PROJECT_DIR$/views/pageP4.html" />
+        <option value="$PROJECT_DIR$/views/pageP5.html" />
       </list>
     </option>
   </component>
@@ -155,7 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -212,6 +221,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -336,12 +346,13 @@
       <workItem from="1480194233750" duration="73000" />
       <workItem from="1480202329306" duration="8380000" />
       <workItem from="1480265291966" duration="5178000" />
-      <workItem from="1480271586955" duration="1347000" />
+      <workItem from="1480271586955" duration="1622000" />
+      <workItem from="1480273781506" duration="376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78012000" />
+    <option name="totallyTimeSpent" value="78663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -471,13 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="29" column="50" lean-forward="false" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/pageP6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -706,20 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/pageP5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="101" lean-forward="false" selection-start-line="5" selection-start-column="101" selection-end-line="5" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/pageP4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/pageP15.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -749,10 +739,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/pageP5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="143" lean-forward="false" selection-start-line="5" selection-start-column="143" selection-end-line="5" selection-end-column="143" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pageP4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="255">
+          <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pageP6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
           <folding />
         </state>
       </provider>
