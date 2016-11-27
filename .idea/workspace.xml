@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df52c529-0d9a-4559-97dd-5aeef0214693" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Objetivo1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Objetivo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Objetivo3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Target/Target1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Target/Target2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imagenes/Target/Target3.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/FONDO.jpg" afterPath="$PROJECT_DIR$/imagenes/FONDO.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/Objetivo/Thumbs.db" afterPath="$PROJECT_DIR$/imagenes/Objetivo/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/Target/Thumbs.db" afterPath="$PROJECT_DIR$/imagenes/Target/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/Thumbs.db" afterPath="$PROJECT_DIR$/imagenes/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagenes/esloganP6.png" afterPath="$PROJECT_DIR$/imagenes/esloganP6.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pageP4.html" afterPath="$PROJECT_DIR$/views/pageP4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pageP5.html" afterPath="$PROJECT_DIR$/views/pageP5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/style.css" afterPath="$PROJECT_DIR$/styles/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pageP6.html" afterPath="$PROJECT_DIR$/views/pageP6.html" />
     </list>
     <ignored path="proyectoAleja.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+            <state relative-caret-position="170">
+              <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -51,8 +40,18 @@
       <file leaf-file-name="pageP6.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/pageP6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            <state relative-caret-position="221">
+              <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="184" column="13" lean-forward="false" selection-start-line="184" selection-start-column="13" selection-end-line="184" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -92,9 +91,7 @@
         <option value="$PROJECT_DIR$/views/pageP2.html" />
         <option value="$PROJECT_DIR$/scripts/directives.js" />
         <option value="$PROJECT_DIR$/views/pageP40.html" />
-        <option value="$PROJECT_DIR$/styles/style.css" />
         <option value="$PROJECT_DIR$/views/pageP3.html" />
-        <option value="$PROJECT_DIR$/views/pageP6.html" />
         <option value="$PROJECT_DIR$/views/pageP7.html" />
         <option value="$PROJECT_DIR$/views/pageP9.html" />
         <option value="$PROJECT_DIR$/views/pageP10.html" />
@@ -132,6 +129,8 @@
         <option value="$PROJECT_DIR$/scripts/jQuery.js" />
         <option value="$PROJECT_DIR$/views/pageP4.html" />
         <option value="$PROJECT_DIR$/views/pageP5.html" />
+        <option value="$PROJECT_DIR$/styles/style.css" />
+        <option value="$PROJECT_DIR$/views/pageP6.html" />
       </list>
     </option>
   </component>
@@ -347,12 +346,12 @@
       <workItem from="1480202329306" duration="8380000" />
       <workItem from="1480265291966" duration="5178000" />
       <workItem from="1480271586955" duration="1622000" />
-      <workItem from="1480273781506" duration="376000" />
+      <workItem from="1480273781506" duration="1166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78663000" />
+    <option name="totallyTimeSpent" value="79453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -468,13 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="310" column="21" lean-forward="true" selection-start-line="310" selection-start-column="21" selection-end-line="310" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -757,16 +749,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+        <state relative-caret-position="170">
+          <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="184" column="13" lean-forward="false" selection-start-line="184" selection-start-column="13" selection-end-line="184" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/pageP6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        <state relative-caret-position="221">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
           <folding />
         </state>
       </provider>
