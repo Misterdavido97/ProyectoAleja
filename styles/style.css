@@ -184,6 +184,10 @@ body{
 .IMG100{
 	width: 80%;
 }
+.IMG1002{
+	height: 60%;
+	width: auto;
+}
 .HMedia{
 	height: 50vh;
 }
